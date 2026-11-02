@@ -63,5 +63,3 @@ How to reach me lin05191123@gmail.com/louislin.cs12@nycu.edu.tw
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Louislin0128">Louislin0128</a></i></p>
