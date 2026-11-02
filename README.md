@@ -38,8 +38,8 @@ How to reach me lin05191123@gmail.com/louislin.cs12@nycu.edu.tw
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://codepen.io/Louislin0128"><img src="https://img.shields.io/badge/CodePen-B2EDC5?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
   <a href="https://linkedin.com/in/yuanzhih-lin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://codepen.io/Louislin0128"><img src="https://img.shields.io/badge/CodePen-B2EDC5?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
   <a href="https://instagram.com/forever_0519"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:louislin.cs12@nycu.edu.tw"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
